@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello
+
+## About me
+I am a linux system administrator with certifications in Red Hat and Ansible Automation.
+On my free time i play games and mess around with automation, my own infrastructure and network.
+
+/Celebrian
 
 <!--
 **Celebrian/Celebrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
